@@ -17,7 +17,7 @@ In the field of dermatology, differential diagnosis of Erythmato-Squamous Diseas
    
 2.There was no null values but Age attribute had some wrong value "?" and also age attribute had 0 as a value which is not possible thus we changed the wrong value and replaced the 0 value with the mean.
 
-3.While checking the correlation of these attributes it is seen that many attributes have high accuracy which was leading for overfitting and thus we changed those as well.The dropped attributes are itching,koebner_phenomenon,polygonal_papules,oral_mucosal_involvement, melanin_incontinence,eosinophils_in_the_infiltrate, acanthosis, hyperkeratosis, focal_hypergranulosis, vacuolisation_and_damage_of_basal_layer , saw-tooth_appearance_of_retes,inflammatory_monoluclear_inflitrate,band-like_infiltrate.
+3.While checking the correlation of these attributes it is seen that many attributes have high accuracy which was leading for overfitting and thus we changed those as well.The dropped attributes are itching,koebner_phenomenon,polygonal_papules,oral_mucosal_involvement, melanin_incontinence,eosinophils_in_the_infiltrate, acanthosis, hyperkeratosis, focal_hypergranulosis, vacuolisation_and_damage_of_basal_layer, saw-tooth_appearance_of_retes,inflammatory_monoluclear_inflitrate,band-like_infiltrate.
 
 4.We had used 5 Machine Learning Algorithms -Decision Tree,Random Forest,SVM,XG-Booster,Logistic Regression.
 
